@@ -1,0 +1,22 @@
+{
+    "FileVersion": 1,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "{TEMPLATE}",
+    "Description": "{DESCRIPTION}",
+    "Category": "Plugin",
+    "CreatedBy": "{AUTHOR}",
+    "CanContainContent": true,
+    "Modules": [
+
+        {
+            "Name": "{TEMPLATE}Runtime",
+            "Type": "Runtime"
+        },
+	{
+            "Name": "{TEMPLATE}Editor",
+            "Type": "Editor"
+	}
+    ],
+    "EnabledByDefault": false
+}
