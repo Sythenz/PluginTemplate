@@ -3,15 +3,15 @@
 A hella simple Github template to use when creating a plugin, comes with a renaming script!
 All you gotta do is:
 
-- Go to the pluginTemplate on Github, and click "Use this Template" > "Create a New Repository"
+1. Go to the pluginTemplate on Github, and click "Use this Template" > "Create a New Repository"
 
 ![Use This Template](githubimages/usethistemplate.png)
 
-- Clone your new repo to the directory of choice
+2. Clone your new repo to the directory of choice
 
 ![Use This Template](githubimages/clone.png)
 
-- Navigate in your terminal of choice to the cloned directory and run run ``py RunMe.Py``
+3. Navigate in your terminal of choice to the cloned directory and run run ``py RunMe.Py``
 
 ![Use This Template](githubimages/runmepy.png)
 
