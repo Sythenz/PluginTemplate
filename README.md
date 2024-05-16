@@ -11,7 +11,7 @@ All you gotta do is:
 
 ![Use This Template](githubimages/clone.png)
 
-3. Navigate in your terminal of choice to the cloned directory and run run ``py RunMe.Py``
+3. Navigate in your terminal of choice to the cloned directory and run ``py RunMe.Py``
 
 ![Use This Template](githubimages/runmepy.png)
 
